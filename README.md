@@ -1,4 +1,5 @@
 ## Olá!
+![Twitter URL](https://img.shields.io/twitter/url?label=lemos%20Dev&style=social&url=https%3A%2F%2Ftwitter.com%2Flemos_dev)
 
 I'm (currently) a Web Developer, working my way through this pandemic madness.
 
